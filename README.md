@@ -69,7 +69,7 @@ frontend/
 
 ## Future Enhancements
 
-- [ ] User S
+- [ ] User authentication
 - [ ] Blog categories
 - [ ] Search functionality
 - [ ] Comment system
